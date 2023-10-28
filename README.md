@@ -95,6 +95,7 @@ After you're finished please remove all the comments and instructions!
 - **In the database added an animals table**
 - **Query and update animals table**
 - **Query multiple tables**
+- **Add join tables for visits**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,7 +203,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Add join tables for visits**
 - **Database performance audit**
 - **Add database schema diagram**
 
