@@ -2,10 +2,13 @@
 CREATE DATABASE vet_clinic;
 
 CREATE TABLE animals (
-    id int generated always as identity NOT NULL,
-    name varchar(100) NOT NULL,
-    date_of_birth date NOT NULL,
-    escape_attempts int NOT NULL,
-    neutered boolean NOT NULL,
-    weight_kg numeric(5, 2) NOT NULL
+    id INT GENERATED ALWAYS AS IDENTITY,
+    name VARCHAR(100),
+    date_of_birth DATE,
+    escape_attempts INT,
+    neutered BOOlEAN,
+    weight_kg DECIMAL(5, 2),
+    PRIMARY KEY (id)
 );
+
+ALTER TABLE animals ADD COLUMN species VARCHAR(100);
