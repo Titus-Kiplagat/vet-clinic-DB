@@ -96,6 +96,7 @@ After you're finished please remove all the comments and instructions!
 - **Query and update animals table**
 - **Query multiple tables**
 - **Add join tables for visits**
+- **Database performance audit**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,13 +198,17 @@ Example:
 - GitHub: [@Titus-Kiplagat](https://github.com/Titus-Kiplagat)
 - LinkedIn: [Titus Kiplagat](https://www.linkedin.com/in/titus-kiplagat-kemboi-9a8848262/)
 
+👤 **Mostafa Shahat**
+
+- GitHub: [@MostafaShahat2021](https://github.com/MostafaShahat2021)
+- LinkedIn: [@mostafa-shahat](https://www.linkedin.com/in/mostafa-shahat/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Database performance audit**
 - **Add database schema diagram**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
